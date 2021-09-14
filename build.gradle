@@ -30,7 +30,7 @@ dependencies {
 }
 
 war {
-	archiveName = 'springhello.war'
+	archiveName = 'spring-hello.war'
 }
 
 springBoot {
